@@ -20,6 +20,8 @@ public class Main
 	    }
 	    
 	    System.out.println("The reversed string is : "+rs+" and the number of vowels in it is : "+count);
+	    
+	    sc.close();
 		
 	}
 }
